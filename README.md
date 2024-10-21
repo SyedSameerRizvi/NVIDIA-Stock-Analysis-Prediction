@@ -30,4 +30,4 @@ pip install -r requirements.txt
 2. Load the dataset `(nvidia_stock_prices.csv)` and execute the notebook cells to preprocess the data, train the model, and visualize predictions.
 
 ## Results
-After running the notebook, you will see visualizations of NVIDIA stock price trends and model predictions. The final model is evaluated based on accuracy and error metrics such as Mean Absolute Error (MAE) and R Squared.
+After running the notebook, you will see visualizations of NVIDIA stock price trends and model predictions. The final model is evaluated based on accuracy and error metrics such as Mean Squared Error (MSE) and R Squared.
